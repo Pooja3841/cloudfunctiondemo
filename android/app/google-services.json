@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "682135096746",
+    "firebase_url": "https://cloudfunction-94913.firebaseio.com",
+    "project_id": "cloudfunction-94913",
+    "storage_bucket": "cloudfunction-94913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682135096746:android:8ed528223a0233f77d2fd3",
+        "android_client_info": {
+          "package_name": "com.cloudfunctionnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682135096746-ba6k5amtjqkpkp7rhrdcnkclp6flobof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH9NjqzfEEJOA8UpLCrVWWy8kvJ5srZFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682135096746-ba6k5amtjqkpkp7rhrdcnkclp6flobof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
